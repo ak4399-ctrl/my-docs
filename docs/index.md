@@ -19,3 +19,5 @@
 | 源码 | `docs/*.md`、`mkdocs.yml` | 我，手工编写 |
 | 构建产物 | `site/` | `mkdocs build` 自动生成，不提交 |
 | 托管 | GitHub Pages | Actions 自动上传并发布 |
+
+自动部署验证：这是我第二次推送后更新的内容（2026-11-26）。
